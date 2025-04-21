@@ -49,11 +49,5 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/anasskhn_)
 
 ---
-## 🐍 Contribution Snake (just for fun!)
-
-![GitHub Snake Light](https://raw.githubusercontent.com/AnassKh16/AnassKh16/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/AnassKh16/AnassKh16/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
 
 🔭 *Always building. Always learning.*
