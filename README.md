@@ -51,7 +51,7 @@
 ---
 ## 🐍 Contribution Snake (just for fun!)
 
-![Snake animation](https://github.com/AnassKh16/AnassKh16/blob/output/github-contribution-grid-snake.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnassKh16&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
