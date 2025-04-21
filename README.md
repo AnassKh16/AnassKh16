@@ -18,6 +18,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -39,6 +47,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anass-khan-95306225b/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-121212?logo=About.me&logoColor=white&style=for-the-badge)](https://yourportfolio.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/anasskhn_)
+
+---
+## 🐍 Contribution Snake (just for fun!)
+
+![Snake gif](https://github.com/AnassKh16/AnassKh16/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
