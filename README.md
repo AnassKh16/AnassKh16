@@ -51,7 +51,8 @@
 ---
 ## 🐍 Contribution Snake (just for fun!)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnassKh16&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Snake Light](https://raw.githubusercontent.com/AnassKh16/AnassKh16/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/AnassKh16/AnassKh16/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
