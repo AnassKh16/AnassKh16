@@ -30,7 +30,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnassKh16&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnassKh16&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnassKh16&theme=tokyonight" alt="GitHub Streak" width="55%"/>
 </div>
 
 ---
