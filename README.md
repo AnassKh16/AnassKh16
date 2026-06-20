@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Anass
 
 🎓 BSCS Student @ FAST NUCES, Lahore
-💻 Full-Stack & Backend Developer in training / working on game dev
-🚀 Projects across web, AI, game dev, and systems programming
+💻 Full-Stack & Backend Developer in training / Working on Game Dev
+🚀 9 shipped projects across web, AI, game dev, and systems programming
 🤖 Currently building with React, Node.js, and exploring backend architecture
 
 ---
@@ -59,7 +59,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnassKh16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnassKh16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
@@ -77,7 +79,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anass-khan-95306225b/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio_(coming_soon)-121212?logo=About.me&logoColor=white&style=for-the-badge)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:anasskhn10016@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=anasskhn10016@gmail.com)
 
 ---
 
