@@ -2,7 +2,7 @@
 
 🎓 BSCS Student @ FAST NUCES, Lahore
 💻 Full-Stack & Backend Developer in training / Working on Game Dev
-🚀 9 shipped projects across web, AI, game dev, and systems programming
+🚀 Projects across web, AI, game dev, and systems programming
 🤖 Currently building with React, Node.js, and exploring backend architecture
 
 ---
