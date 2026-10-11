@@ -78,7 +78,7 @@
 ## 🌍 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anass-khan-95306225b/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio_(coming_soon)-121212?logo=About.me&logoColor=white&style=for-the-badge)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio_(coming_soon)-121212?logo=About.me&logoColor=white&style=for-the-badge)](https://anass-portfolio-nine.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=anasskhn10016@gmail.com)
 
 ---
