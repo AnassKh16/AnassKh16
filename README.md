@@ -42,11 +42,11 @@
 
 ## 🛠️ Featured Projects
 
-- 🤖 **[Orbit](https://github.com/AnassKh16/Orbit)** — AI co-pilot dashboard for startup founders. React, Firebase, Groq (Llama 3.1), deployed on Cloud Run with a CI/CD pipeline.
-- 🎵 **[Vybe](https://github.com/AnassKh16/Vybe)** — Spotify-powered music stats dashboard. React + Node.js, OAuth 2.0, Spotify REST API.
+- 🤖 **[Orbit](https://github.com/AnassKh16/Robust_Coderz-AI-Hackathon)** — AI co-pilot dashboard for startup founders. React, Firebase, Groq (Llama 3.1), deployed on Cloud Run with a CI/CD pipeline.
+- 🎵 **[Vybe](https://github.com/AnassKh16/Vybe-Music-Analyzer)** — Spotify-powered music stats dashboard. React + Node.js, OAuth 2.0, Spotify REST API.
 - 🕹️ **[Retro-Tools](https://github.com/AnassKh16/Retro-Tools)** — Multi-tool React + TypeScript SPA built with Vite and shadcn/ui.
 - 🏰 **[Stronghold Console Edition](https://github.com/AnassKh16/Stronghold-Console-Edition)** — Modular OOP strategy game in C++ with SFML graphics.
-- 🧭 **[AI PathFinder](https://github.com/AnassKh16/AI-PathFinder)** — Visualiser comparing BFS, DFS, UCS, Greedy Best-First, and A*.
+- 🧭 **[AI PathFinder](https://github.com/AnassKh16/AI_PathFinder)** — Visualiser comparing BFS, DFS, UCS, Greedy Best-First, and A*.
 - 💣 **[Bomber-Man](https://github.com/AnassKh16/Bomber-Man)** — Console arcade game in C++ with a persistent high-score system.
 
 ---
